@@ -6,10 +6,32 @@
 |K224114|Bilal Asif|
 
 ## Q1
-Write your answer to question 1 here ....
+
+    Q1: Read Turing's original paper on AI (Turing, 1950). In the paper, he discusses several potential objections to his proposed enterprise and his test for 
+    intelligence. Which objections still carry some weight? Are his refutations valid? Can you think of new objections arising from developments since he wrote 
+    the paper? In the paper, he predicts that by the year 2000, a computer will have a 30% chance of passing a five-minute Turing Test with an unskilled 
+    interrogator. Do you think this is reasonable?
+
+    
+    The Turing 1950s paper is considered an important building block in the field of artificial intelligence, the premise of the paper being,  ‘Can machines           think?’ To test this, he proposes a test called imitation games, also referred to as the Turing test, which, to this date, is valid. In the paper, he answers      some of the objections to his own opinions.
+    
+    A few of those observations, I feel, are still somewhat valid, despite so much advancement in the field of AI. In the paper, Turing defends the lack of            diversity in the behaviour of machines by stating that at the moment storage is limited, but even when we have so much storage and computing power, machines       are still limited in their behavior. For example, ChatGpt is a large language model that is capable but still limited; it can write code, tell stories, answer 
+    your questions, etc., but cannot perform a web lookup. These elaborate systems only do as much as they are programmed for; hence, to date, we do not have a 
+    machine that can be good or even do multiple non-related things. In his paper, Turing quotes Professor Jefferson: "Not until a machine can write a sonnet or 
+    compose a concerto because of thoughts and emotions felt, and not by the chance fall of symbols, could we agree that machine equals brain" and claims that 
+    this is a solipsist point of view (a theory holding that the self can know nothing but its modifications and that the self is the only existent thing), and if 
+    so, we can't even be sure that anyone other than us can feel his or her self-thinking, but as it is an accepted fact that all humans think, we should not omit 
+    machines from this belief. I think Professor Jefferson's statement is still valid because if we consider large language models like ChatGPT, Gemini, etc., 
+    they are capable of writing poems and prose, but even though we cannot prove it, intuitively we know that text produced by such models is mostly the output of 
+    a phenomenological programme that is designed to piece words together in proper context and not from emotional experiences. 
+
+    In the paper, Turing predicts that by the year 2000, a computer will have a 30% chance of passing a five-minute Turing test with an unskilled interrogator. I  
+    think this prediction holds true because in today's day and age, when material online is filled with AI-generated content, from articles to images, it is          difficult for the novice eye to distinguish it from human-generated content. 
+    
 ## Q2
 
     Q2: Examine the AI literature to discover whether or not the following tasks can currently be solved by computers.
+
        
     1. Playing a decent game of table tennis (Ping-Pong)
          
@@ -71,7 +93,7 @@ Write your answer to question 1 here ....
 
     4. Writing an intentionally funny story.
 
-          Making people laugh is not easy because humor is complicated. It depends on everyone understanding the same culture, the right timing, and the situation. Even though computers are getting              better at understanding language, it's still hard for them to intentionally create funny things.
+          Making people laugh is not easy because humor is complicated. It depends on everyone understanding the same culture, the right timing, and the situation. Even though computers are getting             better at understanding language, it's still hard for them to intentionally create funny things.
           Computers struggle to grasp the deeper meaning and intent behind humor. They can process words, but not necessarily the emotions, cultural references, and shared experiences that make                  something funny. 
           Humor usually works by surprising people or doing something unexpected. Although AI can come up with different combinations of things, being truly original and witty may be difficult for               them right now.
           Humor varies a lot from person to person and culture to culture. What one group of people finds funny, another might not . This makes it hard for AI to make universally funny stories without           help from humans who understand different cultures.

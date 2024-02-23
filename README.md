@@ -14,35 +14,47 @@ Write your answer to question 1 here ....
     1. Playing a decent game of table tennis (Ping-Pong)
          
           According to AI literature computers cannot play table tennis like humans yet.
-          While AI has witnessed remarkable progress across various domains, replicating human level or a decent level of table tennis proficiency remains a challenging obstacle.
+          While AI has witnessed remarkable progress across various domains, replicating human level or a decent level
+          of table tennis proficiency remains a challenging obstacle.
           
           Accurately analyzing the balls dynamics is important to play.
-          However, real world factors like lighting camera limitations and spin can bring uncertainty and errors in object detection and tracking.
+          However, real world factors like lighting camera limitations and spin can bring uncertainty and errors in object
+          detection and tracking.
           
-          Table tennis is a dynamic game demanding real time decision making game based on many factors like ball state, opponents position and context of the game.
+          Table tennis is a dynamic game demanding real time decision making game based on many factors like ball state, 
+          opponents position and context of the game.
           Current AI models lack the understanding of these complex dynamics.
           
-          Learning things in pretend situations, like video games, doesn't always work the same way in real life. This is because the pretend world might not have the same rules as the real world, and 
-          things can be different. For example, the way things move, the accuracy of sensors, and unexpected things happening in real life can be very different from what the computer learns in                  simulations.
+          Learning things in pretend situations, like video games, doesn't always work the same way in real life. 
+          This is because the pretend world might not have the same rules as the real world, and 
+          things can be different. For example, the way things move, the accuracy of sensors, and unexpected things happening
+          in real life can be very different from what the computer learns in simulations.
           
-          Even though computers are really good at following set patterns and strategies, humans are even better at being creative and changing how they play based on who they're playing against and             how the game is going. Making computers act as flexible and adaptable as humans is still a hard thing to do.
+          Even though computers are really good at following set patterns and strategies, humans are even better at being creative
+          and changing how they play based on who they're playing against and how the game is going. 
+          Making computers act as flexible and adaptable as humans is still a hard thing to do.
 
     2. Driving in the Centre of Karachi
   
-          Even though humans have made big progress in making cars drive themselves, right now, computers can't navigate safely on their own in busy cities like Karachi or other big urban areas.
+          Even though humans have made big progress in making cars drive themselves, right now, computers can't navigate safely on 
+          their own in busy cities like Karachi or other big urban areas.
           
           Karachi's traffic is really complicated because there are all sorts of vehicles, people walking around, and things happening unexpectedly. 
           Self-driving cars might struggle to handle all of this because they're not yet good at dealing with such complex situations. 
           They might not know how to react when things get really busy or when unexpected things pop up on the road.
           
-          Even advanced sensors like LiDAR ( LiDAR — Light Detection and Ranging — is a remote sensing method used to examine the surface of the Earth ) and cameras struggle in challenging scenarios             like poor lighting, dust, and congested spaces.
-          High-resolution, constantly updated maps are crucial for autonomous navigation. While maps of Karachi exist, they might not be detailed or dynamic enough for safe self-driving.
+          Even advanced sensors like LiDAR ( LiDAR — Light Detection and Ranging — is a remote sensing method used to examine the surface of the Earth ) 
+          and cameras struggle in challenging scenarios like poor lighting, dust, and congested spaces.
+          High-resolution, constantly updated maps are crucial for autonomous navigation. While maps of Karachi exist
+          they might not be detailed or dynamic enough for safe self-driving.
 
     3. Discovering and proving new mathematical theorems
 
           Scientists have for the first time used artificial intelligence to suggest and prove new mathematical theorems.
-          The potential breakthrough came in a collaboration between mathematicians who specialize in pure mathematics at the universities of Oxford and Sydney, alongside Google-owned Deep Mind.
-          Machine learning provides a powerful framework that can uncover interesting and provable conjectures in areas where a large amount of data is available, or where the objects are too large to           study with classical methods.
+          The potential breakthrough came in a collaboration between mathematicians who specialize in pure mathematics at the universities
+          of Oxford and Sydney, alongside Google-owned Deep Mind.
+          Machine learning provides a powerful framework that can uncover interesting and provable conjectures in areas where a large amount
+          of data is available, or where the objects are too large to study with classical methods.
           
           Computers can check all possible cases to prove or disprove a theorem. 
           This is a brute-force approach (algorithmic paradigm that consists of systematically checking all possible candidates for whether or not each candidate satisfies the problems statement)                best suited for well-defined problems with limited possibilities.

@@ -4,6 +4,13 @@
 |K224020|Mustafa Waqar|
 |K224114|Bilal Asif|
 
+This code implements various search algorithms (Breadth-First Search, Uniform Cost Search, Greedy Best-First Search,
+and Iterative Deepening Search) on a graph representing a map of Romania. 
+The goal is to find the shortest paths from an initial city to a destination city.
+The main purpose of the code is to demonstrate and compare the performance of different search algorithms on the 
+given graph, each with its specific strategy for exploring the state space. 
+The results are printed in ascending order of their total cost.
+
 
 ![image](https://github.com/NUCES-Khi/assign1-7questions-bilal_mustafa/assets/160394884/45967cd2-a441-40bb-a14b-0e556dc02331)
 ![image](https://github.com/NUCES-Khi/assign1-7questions-bilal_mustafa/assets/160394884/c14386e4-b8eb-4397-a7ee-4f53b82f253c)

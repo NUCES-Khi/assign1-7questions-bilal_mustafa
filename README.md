@@ -53,7 +53,7 @@ Write your answer to question 1 here ....
           - Evaluations of Euler sums in terms of simple mathematical expressions.
           - A new result for Mordell’s cube sum problem.
 
-    4.	Writing an intentionally funny story.
+    4. Writing an intentionally funny story.
 
           Making people laugh is not easy because humor is complicated. It depends on everyone understanding the same culture, the right timing, and the situation. Even though computers are getting              better at understanding language, it's still hard for them to intentionally create funny things.
           Computers struggle to grasp the deeper meaning and intent behind humor. They can process words, but not necessarily the emotions, cultural references, and shared experiences that make                  something funny. 
@@ -66,7 +66,7 @@ Write your answer to question 1 here ....
           Siri can analyze your past interactions and preferences to tailor its responses accordingly. If you often respond positively to playful comments, it might choose those responses more often,            giving the impression of a funny personality.
           Siri can generate some text based on random combinations of words and phrases. While these might occasionally happen to be funny by chance, they often lack the specific context and intent              required for true humor.
 
-    5.	Translating spoken English into spoken Urdu in real time.
+    5. Translating spoken English into spoken Urdu in real time.
     
         Computers can translate spoken English into spoken Urdu in real-time.
         Accurate speech recognition systems exist for both English and Urdu, enabling real-time input like Google Speech-to-Text, Microsoft Azure Speech Services.
@@ -103,35 +103,35 @@ Write your answer to question 1 here ....
         Actuators: Actuators represent the physical or digital mechanisms through which an AI agent executes actions in its environment.
         Sensors: They serve as the agent’s sensory organs to gather information from the environment.
 
-    1.	Playing soccer
+    1. Playing soccer
 
         Performance measure: The number of goals scored and the ability to prevent the opponent from scoring.
         Environment: A playing field for soccer containing team members, adversaries, a match official, a ball, and diverse weather conditions.
         Actuators: Kicking, running, jumping, heading the ball.
         Sensors: Ball tracking sensors, GPS sensors on players, goal line technology.
 
-    2.	Shopping for used AI books on the Internet.
-
+    2. Shopping for used AI books on the Internet.
+ 
         Performance: Find books relevant to your interests, at a good price, and in good condition. 
         Environment: Online marketplaces like Amazon, Facebook Marketplace, or book websites. 
         Actuators: Searching, listings, filtering results, comparing prices, making purchases. 
         Sensors: Textual and Visual content.
         
-    3.	Playing a tennis match.
+    3. Playing a tennis match.
 
         Performance: Scoring points, winning the match, hitting accurate and powerful shots, returning opponent's shots effectively. 
         Environment: A tennis court with an opponent, a tennis ball, and various weather conditions. 
         Actuators: Serving, hitting , volleys, and smashes. 
         Sensors: ball tracking sensors, court sensors, and sensors on the tennis rackets.
         
-    4.	Knitting a sweater.
+    4. Knitting a sweater.
 
         Performance: Creating a well-fitting sweater with even stitches.
         Environment: A workspace with knitting needles, yarn, and  patterns.
         Actuators: The knitter's hands and knitting needles act as actuators
         Sensors: sensors on the knitting machine to monitor the knitting process, and environmental sensors to adjust for temperature and lighting conditions
 
-    5.	Bidding on an item at an auction
+    5. Bidding on an item at an auction
 
         Performance: Winning the item at the lowest possible price, considering budget and competition. 
         Environment: auction house with other bidders, an auctioneer, and the item being auctioned. 
@@ -142,31 +142,31 @@ Write your answer to question 1 here ....
 
     Q5: For each of the following assertions, say whether it is true or false and support your answer with examples or counter examples where appropriate.
 
-    1.  An agent that senses only partial information about the state cannot be perfectly rational.
+    1. An agent that senses only partial information about the state cannot be perfectly rational.
 
         False.
         An agent with limited information can still be perfectly rational by making the best possible decision.
         For e.g. in chess the agent may not have complete information about the opponent but it can still make the best possible moves based on the information it has.
         
-    2.	There exist task environments in which no pure reflex agent can behave rationally.
+    2. There exist task environments in which no pure reflex agent can behave rationally.
     
         True.
         Pure reflex agents react to the current situation without taking in notice the past experiences.
         For e.g. in rat and maze problem after reaching a dead agent with no possible moves the agent will not backtrack as it does not have past information.
 
-    3.	There exists a task environment in which every agent is rational.
+    3. There exists a task environment in which every agent is rational.
     
         False.
         Not every task environment allows for rational behavior by every agent.
 
-    4.	The input to an agent program is the same as the input to the agent function.
+    4. The input to an agent program is the same as the input to the agent function.
 
         False.
         The agent program executes the agent function so the input might differ.
         The program may preprocess or filter data before passing on the information to the function.
         For e.g. in NLP input to the function may be just a sentence or two. But to the program the input is different as sentence tokenization is done, punctuation’s, stop words are removed.
 
-    5.	Every agent function is implementable by some program/machine combination.
+    5. Every agent function is implementable by some program/machine combination.
 
         False.
         Some functions may require resources or information beyond current available tech.

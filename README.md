@@ -39,29 +39,33 @@ Write your answer to question 1 here ....
           Even though humans have made big progress in making cars drive themselves, right now, computers can't navigate safely on 
           their own in busy cities like Karachi or other big urban areas.
           
-          Karachi's traffic is really complicated because there are all sorts of vehicles, people walking around, and things happening unexpectedly. 
-          Self-driving cars might struggle to handle all of this because they're not yet good at dealing with such complex situations. 
+          Karachi's traffic is really complicated because there are all sorts of vehicles, people walking around, and things 
+          happening unexpectedly. 
+          Self-driving cars might struggle to handle all of this because they're not yet good at dealing with such complex 
+          situations. 
           They might not know how to react when things get really busy or when unexpected things pop up on the road.
           
-          Even advanced sensors like LiDAR ( LiDAR — Light Detection and Ranging — is a remote sensing method used to examine the surface of the Earth ) 
-          and cameras struggle in challenging scenarios like poor lighting, dust, and congested spaces.
+          Even advanced sensors like LiDAR ( LiDAR — Light Detection and Ranging — is a remote sensing method used to examine the 
+          surface of the Earth ) and cameras struggle in challenging scenarios like poor lighting, dust, and congested spaces.
           High-resolution, constantly updated maps are crucial for autonomous navigation. While maps of Karachi exist
           they might not be detailed or dynamic enough for safe self-driving.
 
     3. Discovering and proving new mathematical theorems
 
           Scientists have for the first time used artificial intelligence to suggest and prove new mathematical theorems.
-          The potential breakthrough came in a collaboration between mathematicians who specialize in pure mathematics at the universities
-          of Oxford and Sydney, alongside Google-owned Deep Mind.
-          Machine learning provides a powerful framework that can uncover interesting and provable conjectures in areas where a large amount
-          of data is available, or where the objects are too large to study with classical methods.
+          The potential breakthrough came in a collaboration between mathematicians who specialize in pure mathematics at the 
+          universities of Oxford and Sydney, alongside Google-owned Deep Mind.
+          Machine learning provides a powerful framework that can uncover interesting and provable conjectures in areas where
+          a large amount of data is available, or where the objects are too large to study with classical methods.
           
           Computers can check all possible cases to prove or disprove a theorem. 
-          This is a brute-force approach (algorithmic paradigm that consists of systematically checking all possible candidates for whether or not each candidate satisfies the problems statement)                best suited for well-defined problems with limited possibilities.
+          This is a brute-force approach (algorithmic paradigm that consists of systematically checking all possible candidates
+          for whether or not each candidate satisfies the problems statement) best suited for well-defined problems with limited possibilities.
           
           AI algorithms can analyze vast amounts of mathematical data to identify patterns and suggest new conjectures or theorems. 
           Here is just a handful of the many computer-based discoveries that could be mentioned:
-          - A new formula for pi with the property that it permits one to rapidly calculate binary or hexadecimal digits of pi at an arbitrary starting position, without needing to calculate digits                that came before.
+          - A new formula for pi with the property that it permits one to rapidly calculate binary or hexadecimal digits of pi at
+            an arbitrary starting position, without needing to calculate digits that came before.
           - Evaluations of Euler sums in terms of simple mathematical expressions.
           - A new result for Mordell’s cube sum problem.
 
